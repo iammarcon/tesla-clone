@@ -1,5 +1,5 @@
 ## Using Tech in this project
-sitelink: https://kajncode.github.io/tesla-clone/#
+sitelink: https://iammarcon.github.io/tesla-clone/#
 
 react.js
 redux
